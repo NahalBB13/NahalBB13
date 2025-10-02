@@ -1,16 +1,24 @@
-## Hi there 👋
+# Nahal Babaee
 
-<!--
-**NahalBB13/NahalBB13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Graduate, **K. N. Toosi University of Technology**  
+📍 ICT Research Institute, Iran  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+I am passionate about leveraging technology to improve people's lives.  
+Native Persian speaker, fluent in English and French.  
+My academic and research interests include **IoT, Smart Homes, Computer Networks, and Computer Architecture**.  
+
+---
+
+## Tools & Technologies
+- **Programming & Simulation:** Java, C/C++, SQL, AVR Assembly  
+- **Networking & IoT:** Packet Tracer, OMNeT++, IoT Frameworks, APIs  
+- **Other Skills:** Git/GitHub, LaTeX, Matlab  
+
+---
+
+## Contact
+- GitHub: [NahalBB13](https://github.com/your-username)  
+- Email: [nahal.babaee@gmail.com]  
